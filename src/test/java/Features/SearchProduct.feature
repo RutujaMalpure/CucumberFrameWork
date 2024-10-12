@@ -11,7 +11,7 @@ Feature: Search and Place the order for Products
     Examples:
     | CoulnName |
     | Tom  |
-    | Beet |
+    | Bro |
     
 
  
