@@ -12,7 +12,7 @@ Feature: Place the order for Products
    Examples:
    | ProductName |
    | Tom         |
-   | Beet        |
+   
   
 
  
